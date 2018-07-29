@@ -1,0 +1,9 @@
+[package]
+name = "gpnf"
+version = "0.1.0"
+authors = ["Christoph Wurst <christoph@winzerhof-wurst.at>"]
+
+[dependencies]
+clap = "^2.32"
+regex = "^1.0"
+walkdir = "^2.1"
