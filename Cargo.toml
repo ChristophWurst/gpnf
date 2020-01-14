@@ -6,4 +6,4 @@ authors = ["Christoph Wurst <christoph@winzerhof-wurst.at>"]
 [dependencies]
 clap = "^2.33"
 regex = "^1.3"
-walkdir = "^2.2"
+walkdir = "^2.3"
