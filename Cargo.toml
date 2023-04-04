@@ -4,6 +4,6 @@ version = "0.1.0"
 authors = ["Christoph Wurst <christoph@winzerhof-wurst.at>"]
 
 [dependencies]
-clap = "^2.34"
+clap = "^4.2"
 regex = "^1.5"
 walkdir = "^2.3"
